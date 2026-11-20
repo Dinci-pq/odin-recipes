@@ -13,6 +13,14 @@
       <li><a href="recipes/ChickenAdobo.html">Chicken Adobo</a></li>
       <li><a href="recipes/Menudo Rojo.html">Fluffy Pancakes</a></li>
     </ul>
+
+<section>
+        <h2 >Tried a recipe?</h2>
+        <p>Share your thoughts. <a href="feedback.html">feedback</a>.</p>
+      </section>
+    </main>
+
+    <footer>
   </body>
 </html>
 
